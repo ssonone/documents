@@ -2,11 +2,6 @@
 layout: default
 title: Home
 ---
-
-# Welcome to My Blog
-
-This is the content of your `README.md` file.
-
 # FutureTechTrajectories
 
 ## 2018 KISTI 미래유망기술 10선
